@@ -1,4 +1,4 @@
-# Ngrok-Config-Examples
+# Ngrok Config Examples
 
 This simply contains Many Examples of Ngrok Config (ngrok.yml) Files.
 
